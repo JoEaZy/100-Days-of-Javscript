@@ -5,7 +5,7 @@
 3.Learn Node.js; Be able to add server side JavaScript to my skill-set and start building applications.
 
 <h2> The Rules </h2>
-  1. I will do 100 small Javascr ipt projects.<br>
+  1. I will do 100 small Javascript projects.<br>
   2. There's no time limit on how long an individual exercise can take.<br>
   3. I will search and ask for help when I need it <br>
  
