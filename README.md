@@ -1,5 +1,4 @@
 <h1> 100 Javscript projects </h1>
-Inspired by Jennifer Dewalt's 180 websites in 180 days
 <h2> Goal </h2>
 1.Learn programming thinking via JavaScript.<br>
 2.Upgrade and learn ES6 (The lastest version of JavaScript) <br>
